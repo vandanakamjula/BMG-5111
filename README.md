@@ -1,2 +1,1 @@
-# BMG-5111
-The work related to the project and it's code has to be here
+The repository contains the code responsible for "patient rights and responsibilities" page of the e-hospital website. The two main files reponsible for the work are vandanapage.html and style.css. Th entire zip file ehospital.rar consists of the whole integrated file that is worked in Colloboration with Anas Team.
